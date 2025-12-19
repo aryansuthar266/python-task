@@ -1,0 +1,5 @@
+# Greatest of 2
+
+a = int(input("A: "))
+b = int(input("B: "))
+print("Greatest =", a if a>=b else b)
